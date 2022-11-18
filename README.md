@@ -1,6 +1,6 @@
 # ServerSideRendering
 
-This project basically demonstrate the server side rendering (SSR) of a react application.
+This simple project basically demonstrate the server side rendering (SSR) of a react application.
 
 To start and run the project, please execute the following commands
 
@@ -10,4 +10,6 @@ npm run build
 
 npx nodemon --exec npx babel-node server.js
 
+
+Then open http://localhost:8080/ in the browser
  
